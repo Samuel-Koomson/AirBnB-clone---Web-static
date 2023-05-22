@@ -1,2 +1,2 @@
-# AirBnB-clone---Web-static
+# AirBnB clone Web-static
 Alx software engineering project
